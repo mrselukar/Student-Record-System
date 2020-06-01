@@ -9,7 +9,7 @@ A Student/Employee database system based on the AVL Tree Data Structures in C
 4. Ranged Search 
 5. Update
 6. Lisiting Underpeformers
-7. Listing Top Peformenrs
+7. Listing Top Peformers
 8. Listing the Kth Peformer/s
 9. Listing Highest Peformance 
 10. Listing Peformance of the Kth Individual/Student 
